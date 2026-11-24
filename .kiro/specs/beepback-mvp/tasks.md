@@ -22,7 +22,7 @@
 
 ## Tasks
 
-- [ ] 1. Project Scaffolding and Tooling
+- [-] 1. Project Scaffolding and Tooling
   - [ ] 1.1 Initialize a Vite + React 18 + TypeScript project in the workspace root with `npm create vite@latest . -- --template react-ts`
   - [ ] 1.2 Install dependencies: `tailwindcss`, `postcss`, `autoprefixer`, `concurrently`, `express`, `cors`, `uuid`, `dotenv`, `ts-node`, `vitest`, `fast-check`, `@types/express`, `@types/cors`, `@types/uuid`, `@types/node`
   - [ ] 1.3 Configure Tailwind CSS with `npx tailwindcss init -p` and add `src/**/*.{ts,tsx}` to the content array
