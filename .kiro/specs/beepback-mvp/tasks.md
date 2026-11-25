@@ -32,9 +32,9 @@
   - [ ] 1.7 Create `.env.example` documenting `OPENAI_API_KEY`, `OPENAI_BASE_URL`, and `SESSION_PORT`
   - [ ] 1.8 Add a `README.md` with quickstart instructions for `npm install`, `npm run dev`, and `npm test`
 
-- [ ] 2. Core Type Definitions
-  - [ ] 2.1 Create `src/core/types.ts` with `EventType`, `IncomingEvent`, `InterruptionContract`, `DecisionType`, `PolicyDecision`, `SessionState`, `FocusSession`, and `AppState` interfaces exactly as specified in the design document
-  - [ ] 2.2 Enable TypeScript strict mode in `tsconfig.json` with `"strict": true`, `"noImplicitAny": true`, `"strictNullChecks": true`
+- [-] 2. Core Type Definitions
+  - [x] 2.1 Create `src/core/types.ts` with `EventType`, `IncomingEvent`, `InterruptionContract`, `DecisionType`, `PolicyDecision`, `SessionState`, `FocusSession`, and `AppState` interfaces exactly as specified in the design document
+  - [-] 2.2 Enable TypeScript strict mode in `tsconfig.json` with `"strict": true`, `"noImplicitAny": true`, `"strictNullChecks": true`
 
 - [ ] 3. Policy Engine
   - [ ] 3.1 Create `src/core/policyEngine.ts` exporting `evaluate(event, contract, sessionState): PolicyDecision` with no imports outside `src/core/types.ts`

@@ -17,6 +17,32 @@
         "chatSessionId": "sess_2a6c087e-ab49-4581-a592-92c11726ea17",
         "timestamp": 1795548695845
       }
+    ],
+    "2. Core Type Definitions": [
+      {
+        "executionId": "8f064a83-8e21-4507-9193-8137284d2d6d",
+        "chatSessionId": "sess_6a069c60-4dfa-4a07-abb8-5efaf3d67524",
+        "timestamp": 1795601681049
+      }
+    ],
+    "2.1 Create `src/core/types.ts` with `EventType`, `IncomingEvent`, `InterruptionContract`, `DecisionType`, `PolicyDecision`, `SessionState`, `FocusSession`, and `AppState` interfaces exactly as specified in the design document": [
+      {
+        "executionId": "8f064a83-8e21-4507-9193-8137284d2d6d",
+        "chatSessionId": "sess_6a069c60-4dfa-4a07-abb8-5efaf3d67524",
+        "timestamp": 1795602044364
+      },
+      {
+        "executionId": "8f064a83-8e21-4507-9193-8137284d2d6d",
+        "chatSessionId": "sess_6a069c60-4dfa-4a07-abb8-5efaf3d67524",
+        "timestamp": 1795602094846
+      }
+    ],
+    "2.2 Enable TypeScript strict mode in `tsconfig.json` with `\"strict\": true`, `\"noImplicitAny\": true`, `\"strictNullChecks\": true`": [
+      {
+        "executionId": "8f064a83-8e21-4507-9193-8137284d2d6d",
+        "chatSessionId": "sess_6a069c60-4dfa-4a07-abb8-5efaf3d67524",
+        "timestamp": 1795602100324
+      }
     ]
   }
 }
