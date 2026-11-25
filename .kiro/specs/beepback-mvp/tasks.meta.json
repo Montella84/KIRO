@@ -23,6 +23,11 @@
         "executionId": "8f064a83-8e21-4507-9193-8137284d2d6d",
         "chatSessionId": "sess_6a069c60-4dfa-4a07-abb8-5efaf3d67524",
         "timestamp": 1795601681049
+      },
+      {
+        "executionId": "8f064a83-8e21-4507-9193-8137284d2d6d",
+        "chatSessionId": "sess_6a069c60-4dfa-4a07-abb8-5efaf3d67524",
+        "timestamp": 1795604512614
       }
     ],
     "2.1 Create `src/core/types.ts` with `EventType`, `IncomingEvent`, `InterruptionContract`, `DecisionType`, `PolicyDecision`, `SessionState`, `FocusSession`, and `AppState` interfaces exactly as specified in the design document": [
@@ -42,6 +47,11 @@
         "executionId": "8f064a83-8e21-4507-9193-8137284d2d6d",
         "chatSessionId": "sess_6a069c60-4dfa-4a07-abb8-5efaf3d67524",
         "timestamp": 1795602100324
+      },
+      {
+        "executionId": "8f064a83-8e21-4507-9193-8137284d2d6d",
+        "chatSessionId": "sess_6a069c60-4dfa-4a07-abb8-5efaf3d67524",
+        "timestamp": 1795604512435
       }
     ]
   }
